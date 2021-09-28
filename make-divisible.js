@@ -6,6 +6,7 @@ let y = prompt('Enter y: ')
 while (x % y != 0) {
     x++
     console.log(x)
-}
+ 
+}   
 
-console.log(x,'is divisible by',y)
+console.log(x, 'is divisible by',y)
